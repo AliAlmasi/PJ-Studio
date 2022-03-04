@@ -1,5 +1,7 @@
 #hero{
-    min-height: 88vh;
+    padding-top: 6rem;
+    min-height: 70vh;
+    margin-bottom: 8rem;
 }
 
 .hero__wrapper{
